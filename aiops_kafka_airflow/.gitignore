@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+airflow/logs/
+airflow/airflow.cfg
+airflow/airflow.db
+data/anomaly_plot.png
